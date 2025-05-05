@@ -9,12 +9,12 @@ This project analyzes a synthetic hospital claims dataset to uncover patterns in
 ```
 
 hospital-claims-cost-outcomes/
-├── data/                      # Input dataset (small/synthetic)
-├── notebooks/                 # Google Colab/Python notebook
+├── data/                      
+├── notebooks/                 
 ├── outputs/
-│   ├── figures/               # All final visualizations
-│   └── summary\_tables/       # (Optional) Exported analysis tables
-├── reports/                   # (Optional) Executive summary or stakeholder report
+│   ├── figures/               
+│   └── summary\_tables/       
+├── reports/                 
 └── README.md
 
 ```
